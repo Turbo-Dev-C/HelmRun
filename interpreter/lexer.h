@@ -10,3 +10,5 @@ typedef struct
 tocken code_to_tocken(char* c);
 size_t toclen(tocken t);
 char* tocken_to_code(tocken t);
+
+// for fixing
